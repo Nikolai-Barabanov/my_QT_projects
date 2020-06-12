@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-06-01T13:19:50. -->
+<!-- Written by QtCreator 4.11.0, 2020-06-01T15:46:34. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -282,8 +282,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/nikola/My_project/QT_project/debug/fillToDataBase/fillToDataBase.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/nikola/My_project/QT_project/debug/fillToDataBase/fillToDataBase.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">fillToDataBase2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/nikola/github/my_QT_projects/fill_dataBase/fillToDataBase.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/nikola/github/my_QT_projects/fill_dataBase/fillToDataBase.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
